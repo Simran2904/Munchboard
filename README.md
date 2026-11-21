@@ -1,4 +1,5 @@
-Munchboard
+**Munchboard**
+
 Munchboard is a food-ordering website built with Java 21 and Spring Boot. It provides a restaurant-style interface where visitors can browse food categories and products, search the menu, add items to a cart, and proceed through a checkout form.
 
 The project also contains a Spring Boot REST API for creating and retrieving orders, with MySQL access through JDBC.
